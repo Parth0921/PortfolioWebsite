@@ -59,7 +59,6 @@ export const experiencesData = [
   },
 ] as const;
 
-//update images for projects
 export const projectsData = [
   {
     title: "Hydro Pneumatic Equipment Portfolio",
