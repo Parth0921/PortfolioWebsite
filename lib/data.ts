@@ -32,12 +32,12 @@ export const links = [
   },
 ] as const;
 
+//note cannot do icon: <LuGraduationCap /> as file is ts and not tsx hence using React.createElement
 export const experiencesData = [
   {
     title: "Graduated from Charusat University",
     location: "Gujarat, India",
-    description:
-      "An upcoming graduate in BTech - Computer Science",
+    description: "An upcoming graduate in BTech - Computer Science",
     icon: React.createElement(LuGraduationCap),
     date: "2020 - 2024",
   },
@@ -71,7 +71,13 @@ export const projectsData = [
     title: "Salary Prediction",
     description:
       "A public application which users can use to predict Software Salaries based on 2022 StackOverflow data. I built a regression model and deployed it on the web",
-    tags: ["Streamlit", "Python", "Jupyter Notebook", "Scikit-learn", "Matplotlib"],
+    tags: [
+      "Streamlit",
+      "Python",
+      "Jupyter Notebook",
+      "Scikit-learn",
+      "Matplotlib",
+    ],
     imageUrl: salarypredictionImg,
   },
 ] as const;
