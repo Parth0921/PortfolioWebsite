@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This web application was created as a follow along project to learn about Next.js, Tailwind CSS, Framer Motion and Resend. If you also want to follow along refer [ByteGrad](https://www.youtube.com/watch?v=sUKptmUVIBM&t=22784s) or get it from his repository [Repository](https://github.com/ByteGrad/portfolio-website). It was a great learning experience to work on my front-end skills. I have modified his project and uses Next.js version 14 which supports stable server actions used to emails using Resend (version 3.2.0).
+This web application was created as a follow along project to learn about Next.js, Tailwind CSS, Framer Motion and Resend. If you also want to follow along refer [ByteGrad](https://www.youtube.com/watch?v=sUKptmUVIBM&t=22784s) or get it from his repository [Repository](https://github.com/ByteGrad/portfolio-website). It was a great learning experience to work on my front-end skills. I have modified his project and used Next.js version 14 which supports stable server actions used to emails using Resend (version 3.2.0).
 
 If you want to run the project:
 
