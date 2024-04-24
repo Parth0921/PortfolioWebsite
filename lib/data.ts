@@ -63,7 +63,7 @@ export const projectsData = [
   {
     title: "Hydro Pneumatic Equipment Portfolio",
     description:
-      "I worked as a full-stack developer on this project for 10 months. Users can browse the catalogue, and read Blogs published by the Admin. Admin has the ability to leverage Email-Marketing to increase further sales.",
+      "I worked as a full-stack developer on this project for 10 months. Users can browse the catalogue, and read Blogs. Admin has the ability to leverage Email-Marketing to increase further sales.",
     tags: ["React", "JavaScript", "Firebase", "Bootstrap", "Redis"],
     imageUrl: hydrobrdImg,
   },
