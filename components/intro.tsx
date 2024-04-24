@@ -3,7 +3,7 @@
 import Image from "next/image";
 import React from "react";
 import { motion } from "framer-motion";
-import profileImg from "@/public/Parth_LinkedIn_Profile_Photo.jpg";
+import profileImg from "@/public/Parth-Rathod-Image.jpeg";
 import Link from "next/link";
 import { BsArrowRight, BsLinkedin } from "react-icons/bs";
 import { HiDownload } from "react-icons/hi";
